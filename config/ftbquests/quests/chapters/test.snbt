@@ -1,0 +1,46 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: ""
+	id: "0953057DF44BD0AC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"{image:goblintraders:textures/entity/goblin_trader.png width:100 height:100 align:center}"
+			"{image:goblintraders:textures/entity/vein_goblin_trader.png width:100 height:100 align:center}"
+		]
+		hide_dependent_lines: true
+		id: "301020595C768323"
+		rewards: [{
+			id: "24CE042FA39FA7B8"
+			item: "minecraft:diamond"
+			type: "item"
+		}]
+		subtitle: "Find All Goblin Trader"
+		tasks: [
+			{
+				id: "6B8DC7D771229119"
+				observe_type: 5
+				optional_task: true
+				timer: 0L
+				title: "GoblingTrader"
+				to_observe: "goblintraders:goblin_trader"
+				type: "observation"
+			}
+			{
+				id: "259A0DD99CCD3E98"
+				observe_type: 5
+				timer: 0L
+				title: "VeinGoblinTrader"
+				to_observe: "goblintraders:vein_goblin_trader"
+				type: "observation"
+			}
+		]
+		title: "Goblin's?"
+		x: -3.0d
+		y: -1.5d
+	}]
+	title: "test"
+}

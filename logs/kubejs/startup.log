@@ -1,0 +1,17 @@
+[16:53:58] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:53:58] [INIT] Loaded plugins:
+[16:53:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:53:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:53:58] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[16:53:58] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[16:53:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:53:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[16:53:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:53:58] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[16:53:58] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[16:53:58] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[16:53:58] [INIT] - com.probejs.ProbeJSPlugin
+[16:53:58] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[16:53:59] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[16:53:59] [INFO] Loaded script startup_scripts:example.js in 0.057 s
+[16:53:59] [INFO] Loaded 1/1 KubeJS startup scripts in 0.526 s with 0 errors and 0 warnings

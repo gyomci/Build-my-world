@@ -1,0 +1,126 @@
+
+#Client Configs
+[general]
+	show_low_mana_warning = true
+	render_mob_bar = true
+	render_death_stats = true
+	render_item_rarity_background = true
+	show_durability = true
+	render_mob_hp_gui = true
+	only_render_mob_looked_at = true
+	#Allowed Values: DEFAULT, ON, OFF
+	render_floating_damage = "DEFAULT"
+	MODIFY_TOOLTIP_LENGTH = true
+	IN_DEPTH_TOOLTIPS_BY_DEFAULT = true
+	#Use player animations when casting mns spells. Disable in case of other animation mod incompatibility
+	USE_SPELL_ANIMATIONS = true
+	#If false, gui bars will only render when they aren't full
+	#Allowed Values: DEFAULT, ALWAYS, WHEN_NOT_FULL
+	RENDER_FILLED_GUI_BARS = "DEFAULT"
+	#Range: 0.0 ~ 1.0
+	ITEM_RARITY_OPACITY = 0.75
+	#Range: 0.0 ~ 10.0
+	health_bar_gui_scale = 1.25
+	#Range: 0.10000000149011612 ~ 1.0
+	SPELL_PARTICLE_MULTI = 1.0
+	#Range: 0.0 ~ 5000.0
+	DONT_CULL_PARTICLES_UNDER = 50.0
+	#When OFF: 8 bars, 8 keybinds. When ON: 4 bars, 5 keybinds(4 for each bar, 1 for hotbar swap button)
+	HOTBAR_SWAPPING = false
+	#Allowed Values: NONE, BOTTOM_CENTER, OVER_VANILLA, TOP_LEFT
+	GUI_POSITION = "TOP_LEFT"
+	#Allowed Values: BORDER, FULL
+	ITEM_RARITY_BACKGROUND_TYPE = "FULL"
+	#Allowed Values: RPG, NONE
+	PLAYER_GUI_TYPE = "RPG"
+	#Allowed Values: DEFAULT, IN_A_ROW
+	DAMAGE_PARTICLE_STYLE = "DEFAULT"
+	#Range: 1.0E-6 ~ 1.0
+	SKILL_TREE_ZOOM_SPEED = 0.15
+	#Range: 0 ~ 1000
+	REMOVE_EMPTY_TOOLTIP_LINES_IF_MORE_THAN_X_LINES = 45
+	#Range: 0 ~ 1000000
+	SHOW_DECIMALS_ON_NUMBER_SMALLER_THAN = 15
+
+	#Overlays
+	[general.overlays]
+		#Allowed Values: HORIZONTAL, VERTICAL
+		STATUS_EFFECTS_OVERLAY_TYPE = "HORIZONTAL"
+		#Allowed Values: HORIZONTAL, VERTICAL
+		SPELL_HOTBAR_OVERLAY_TYPE = "VERTICAL"
+		#Allowed Values: DISABLE_OVERLAY, SPELL_CAST_BAR, HOTBAR_HORIZONTAL, HOTBAR_VERTICAL, EFFECTS_UNDER_VERTICAL_HOTBAR, EFFECTS_BOTTOM_RIGHT
+		SPELL_HOTBAR_HORIZONTAL_CONFIG = "HOTBAR_HORIZONTAL"
+		#Allowed Values: DISABLE_OVERLAY, SPELL_CAST_BAR, HOTBAR_HORIZONTAL, HOTBAR_VERTICAL, EFFECTS_UNDER_VERTICAL_HOTBAR, EFFECTS_BOTTOM_RIGHT
+		SPELL_HOTBAR_VERTICAL_CONFIG = "HOTBAR_VERTICAL"
+		#Allowed Values: DISABLE_OVERLAY, SPELL_CAST_BAR, HOTBAR_HORIZONTAL, HOTBAR_VERTICAL, EFFECTS_UNDER_VERTICAL_HOTBAR, EFFECTS_BOTTOM_RIGHT
+		EFFECTS_VERTICAL_CONFIG = "EFFECTS_UNDER_VERTICAL_HOTBAR"
+		#Allowed Values: DISABLE_OVERLAY, SPELL_CAST_BAR, HOTBAR_HORIZONTAL, HOTBAR_VERTICAL, EFFECTS_UNDER_VERTICAL_HOTBAR, EFFECTS_BOTTOM_RIGHT
+		EFFECTS_HORIZONTAL_CONFIG = "EFFECTS_BOTTOM_RIGHT"
+		#Allowed Values: DISABLE_OVERLAY, SPELL_CAST_BAR, HOTBAR_HORIZONTAL, HOTBAR_VERTICAL, EFFECTS_UNDER_VERTICAL_HOTBAR, EFFECTS_BOTTOM_RIGHT
+		SPELL_CAST_BAR_CONFIG = "SPELL_CAST_BAR"
+
+		#Spell Cast Bar Overlay Preset
+		[general.overlays.spell_cast_bar]
+			#Allowed Values: SCREEN, SPELL_HOTBAR_HORIZONTAL, SPELL_HOTBAR_VERTICAL, EFFECTS_VERTICAL, EFFECTS_HORIZONTAL, SPELL_CAST_BAR
+			ANCHOR_TO = "SCREEN"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_X = "MIDDLE"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_Y = "END"
+			#Range: -50000 ~ 50000
+			X_OFFSET = -86
+			#Range: -50000 ~ 50000
+			Y_OFFSET = -125
+
+		#Horizontal Spell Hotbar Overlay Preset
+		[general.overlays.horizontal_spell_hotbar]
+			#Allowed Values: SCREEN, SPELL_HOTBAR_HORIZONTAL, SPELL_HOTBAR_VERTICAL, EFFECTS_VERTICAL, EFFECTS_HORIZONTAL, SPELL_CAST_BAR
+			ANCHOR_TO = "SCREEN"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_X = "MIDDLE"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_Y = "END"
+			#Range: -50000 ~ 50000
+			X_OFFSET = -81
+			#Range: -50000 ~ 50000
+			Y_OFFSET = -65
+
+		#Vertical Spell Hotbar Overlay Preset
+		[general.overlays.vertical_spell_hotbar]
+			#Allowed Values: SCREEN, SPELL_HOTBAR_HORIZONTAL, SPELL_HOTBAR_VERTICAL, EFFECTS_VERTICAL, EFFECTS_HORIZONTAL, SPELL_CAST_BAR
+			ANCHOR_TO = "SCREEN"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_X = "START"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_Y = "MIDDLE"
+			#Range: -50000 ~ 50000
+			X_OFFSET = 0
+			#Range: -50000 ~ 50000
+			Y_OFFSET = -81
+
+		#Status Effects Bottom Right Overlay Preset
+		[general.overlays.status_effects_bottom_right]
+			#Allowed Values: SCREEN, SPELL_HOTBAR_HORIZONTAL, SPELL_HOTBAR_VERTICAL, EFFECTS_VERTICAL, EFFECTS_HORIZONTAL, SPELL_CAST_BAR
+			ANCHOR_TO = "SCREEN"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_X = "MIDDLE"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_Y = "END"
+			#Range: -50000 ~ 50000
+			X_OFFSET = 90
+			#Range: -50000 ~ 50000
+			Y_OFFSET = -30
+
+		#Status Effects Under Vertical Hotbar Overlay Preset
+		[general.overlays.status_effects_under_vertical_hotbar]
+			#Allowed Values: SCREEN, SPELL_HOTBAR_HORIZONTAL, SPELL_HOTBAR_VERTICAL, EFFECTS_VERTICAL, EFFECTS_HORIZONTAL, SPELL_CAST_BAR
+			ANCHOR_TO = "SPELL_HOTBAR_VERTICAL"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_X = "START"
+			#Allowed Values: START, END, MIDDLE
+			ANCHOR_Y = "END"
+			#Range: -50000 ~ 50000
+			X_OFFSET = 2
+			#Range: -50000 ~ 50000
+			Y_OFFSET = 2
+

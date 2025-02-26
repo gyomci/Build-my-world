@@ -1,0 +1,24 @@
+
+#Dungeon Realm Configs
+[general]
+	#Dungeon map spawn chance multi per dimension
+	DIMENSION_CHANCE_MULTI = ["dungeon_realm:dungeon-1.5"]
+	#Dungeon Maps have a chance to spawn when you loot chests outside of map dimensions
+	#Range: 0.0 ~ 100.0
+	DUNGEON_MAP_SPAWN_CHANCE_ON_CHEST_LOOT = 5.0
+	#Range: 1 ~ 100
+	MIN_MAP_ROOMS = 12
+	#Range: 1 ~ 100
+	MAX_MAP_ROOMS = 20
+	#Range: 0 ~ 20
+	mob_min = 1
+	#Range: 0 ~ 20
+	mob_max = 2
+	#Range: 0 ~ 20
+	pack_mob_min = 3
+	#Range: 0 ~ 20
+	pack_mob_max = 6
+	#Uber fragments can drop from A map boss, default chance is 10%
+	#Range: 0.0 ~ 100.0
+	UBER_FRAG_DROP_RATE = 10.0
+

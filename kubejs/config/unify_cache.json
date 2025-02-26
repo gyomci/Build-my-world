@@ -1,0 +1,155 @@
+{
+	"itemsToTags": {
+		"create:iron_sheet": "forge:plates/iron",
+		"immersiveengineering:plate_iron": "forge:plates/iron",
+		"immersiveengineering:plate_gold": "forge:plates/gold",
+		"create:golden_sheet": "forge:plates/gold",
+		"tfmg:aluminum_block": "forge:storage_blocks/aluminum",
+		"immersiveengineering:storage_aluminum": "forge:storage_blocks/aluminum",
+		"tfmg:lead_block": "forge:storage_blocks/lead",
+		"immersiveengineering:storage_lead": "forge:storage_blocks/lead",
+		"immersiveengineering:storage_nickel": "forge:storage_blocks/nickel",
+		"tfmg:nickel_block": "forge:storage_blocks/nickel",
+		"createmetallurgy:steel_block": "forge:storage_blocks/steel",
+		"tfmg:steel_block": "forge:storage_blocks/steel",
+		"immersiveengineering:storage_steel": "forge:storage_blocks/steel",
+		"tfmg:aluminum_ingot": "forge:ingots/aluminum",
+		"immersiveengineering:ingot_aluminum": "forge:ingots/aluminum",
+		"immersiveengineering:ingot_lead": "forge:ingots/lead",
+		"tfmg:lead_ingot": "forge:ingots/lead",
+		"tfmg:nickel_ingot": "forge:ingots/nickel",
+		"immersiveengineering:ingot_nickel": "forge:ingots/nickel",
+		"immersiveengineering:ingot_steel": "forge:ingots/steel",
+		"tfmg:steel_ingot": "forge:ingots/steel",
+		"createmetallurgy:steel_ingot": "forge:ingots/steel",
+		"immersiveengineering:nugget_copper": "forge:nuggets/copper",
+		"tconstruct:copper_nugget": "forge:nuggets/copper",
+		"create:copper_nugget": "forge:nuggets/copper",
+		"immersiveengineering:dust_copper": "forge:dusts/copper",
+		"createmetallurgy:copper_dust": "forge:dusts/copper",
+		"immersiveengineering:plate_copper": "forge:plates/copper",
+		"create:copper_sheet": "forge:plates/copper",
+		"immersiveengineering:plate_steel": "forge:plates/steel",
+		"tfmg:heavy_plate": "forge:plates/steel",
+		"tfmg:raw_lead": "forge:raw_materials/lead",
+		"immersiveengineering:raw_lead": "forge:raw_materials/lead",
+		"immersiveengineering:raw_nickel": "forge:raw_materials/nickel",
+		"tfmg:raw_nickel": "forge:raw_materials/nickel",
+		"tfmg:deepslate_lead_ore": "unifytags:tag9",
+		"immersiveengineering:deepslate_ore_lead": "unifytags:tag9",
+		"immersiveengineering:ore_lead": "unifytags:tag11",
+		"tfmg:lead_ore": "unifytags:tag11",
+		"tfmg:deepslate_nickel_ore": "unifytags:tag15",
+		"immersiveengineering:deepslate_ore_nickel": "unifytags:tag15",
+		"tfmg:nickel_ore": "unifytags:tag17",
+		"immersiveengineering:ore_nickel": "unifytags:tag17"
+	},
+	"tagItems": {
+		"forge:plates/iron": [
+			"create:iron_sheet",
+			"immersiveengineering:plate_iron"
+		],
+		"forge:plates/gold": [
+			"immersiveengineering:plate_gold",
+			"create:golden_sheet"
+		],
+		"forge:storage_blocks/aluminum": [
+			"tfmg:aluminum_block",
+			"immersiveengineering:storage_aluminum"
+		],
+		"forge:storage_blocks/lead": [
+			"tfmg:lead_block",
+			"immersiveengineering:storage_lead"
+		],
+		"forge:storage_blocks/nickel": [
+			"immersiveengineering:storage_nickel",
+			"tfmg:nickel_block"
+		],
+		"forge:storage_blocks/steel": [
+			"createmetallurgy:steel_block",
+			"tfmg:steel_block",
+			"immersiveengineering:storage_steel"
+		],
+		"forge:ingots/aluminum": [
+			"tfmg:aluminum_ingot",
+			"immersiveengineering:ingot_aluminum"
+		],
+		"forge:ingots/lead": [
+			"immersiveengineering:ingot_lead",
+			"tfmg:lead_ingot"
+		],
+		"forge:ingots/nickel": [
+			"tfmg:nickel_ingot",
+			"immersiveengineering:ingot_nickel"
+		],
+		"forge:ingots/steel": [
+			"immersiveengineering:ingot_steel",
+			"tfmg:steel_ingot",
+			"createmetallurgy:steel_ingot"
+		],
+		"forge:nuggets/copper": [
+			"immersiveengineering:nugget_copper",
+			"tconstruct:copper_nugget",
+			"create:copper_nugget"
+		],
+		"forge:dusts/copper": [
+			"immersiveengineering:dust_copper",
+			"createmetallurgy:copper_dust"
+		],
+		"forge:plates/copper": [
+			"immersiveengineering:plate_copper",
+			"create:copper_sheet"
+		],
+		"forge:plates/steel": [
+			"immersiveengineering:plate_steel",
+			"tfmg:heavy_plate"
+		],
+		"forge:raw_materials/lead": [
+			"tfmg:raw_lead",
+			"immersiveengineering:raw_lead"
+		],
+		"forge:raw_materials/nickel": [
+			"immersiveengineering:raw_nickel",
+			"tfmg:raw_nickel"
+		],
+		"unifytags:tag9": [
+			"tfmg:deepslate_lead_ore",
+			"immersiveengineering:deepslate_ore_lead"
+		],
+		"unifytags:tag11": [
+			"immersiveengineering:ore_lead",
+			"tfmg:lead_ore"
+		],
+		"unifytags:tag15": [
+			"tfmg:deepslate_nickel_ore",
+			"immersiveengineering:deepslate_ore_nickel"
+		],
+		"unifytags:tag17": [
+			"tfmg:nickel_ore",
+			"immersiveengineering:ore_nickel"
+		]
+	},
+	"tagPriorityItems": {
+		"forge:plates/iron": "create:iron_sheet",
+		"forge:plates/gold": "create:golden_sheet",
+		"forge:storage_blocks/aluminum": "tfmg:aluminum_block",
+		"forge:storage_blocks/lead": "tfmg:lead_block",
+		"forge:storage_blocks/nickel": "immersiveengineering:storage_nickel",
+		"forge:storage_blocks/steel": "createmetallurgy:steel_block",
+		"forge:ingots/aluminum": "tfmg:aluminum_ingot",
+		"forge:ingots/lead": "immersiveengineering:ingot_lead",
+		"forge:ingots/nickel": "tfmg:nickel_ingot",
+		"forge:ingots/steel": "immersiveengineering:ingot_steel",
+		"forge:nuggets/copper": "create:copper_nugget",
+		"forge:dusts/copper": "immersiveengineering:dust_copper",
+		"forge:plates/copper": "create:copper_sheet",
+		"forge:plates/steel": "immersiveengineering:plate_steel",
+		"forge:raw_materials/lead": "tfmg:raw_lead",
+		"forge:raw_materials/nickel": "immersiveengineering:raw_nickel",
+		"unifytags:tag9": "tfmg:deepslate_lead_ore",
+		"unifytags:tag11": "immersiveengineering:ore_lead",
+		"unifytags:tag15": "tfmg:deepslate_nickel_ore",
+		"unifytags:tag17": "tfmg:nickel_ore"
+	},
+	"unifyexclude": []
+}

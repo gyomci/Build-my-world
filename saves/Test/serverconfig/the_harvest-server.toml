@@ -1,0 +1,15 @@
+
+#The Harvest Configs
+[general]
+	#Harvest map spawn chance multi per dimension
+	DIMENSION_CHANCE_MULTI = ["mmorpg:dungeon-0"]
+	#Max mobs spawned in a harvest arena
+	#Range: 20 ~ 2000
+	MAX_TOTAL_MOB_SPAWNS = 200
+	#When you loot new chests with loot tables, harvest maps have a chance to spawn as extra loot
+	#Range: 0.0 ~ 100.0
+	MAP_SPAWN_CHANCE_ON_CHEST_LOOT = 5.0
+	#Mobs inside the harvest have a chance to drop this loot table as a bonus
+	#Range: 0.0 ~ 100.0
+	LOOT_TABLE_CHANCE_PER_MOB = 5.0
+
