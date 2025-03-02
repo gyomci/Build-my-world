@@ -1,17 +1,17 @@
-[17:28:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[17:28:59] [INIT] Loaded plugins:
-[17:28:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:28:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[17:28:59] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
-[17:28:59] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[17:28:59] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[17:28:59] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[17:28:59] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[17:28:59] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[17:28:59] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[17:28:59] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[17:28:59] [INIT] - com.probejs.ProbeJSPlugin
-[17:28:59] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
-[17:29:00] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[17:29:00] [INFO] Loaded script startup_scripts:example.js in 0.053 s
-[17:29:00] [INFO] Loaded 1/1 KubeJS startup scripts in 0.78 s with 0 errors and 0 warnings
+[17:42:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:42:19] [INIT] Loaded plugins:
+[17:42:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:42:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:42:19] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[17:42:19] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[17:42:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[17:42:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:42:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:42:19] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[17:42:19] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:42:19] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[17:42:19] [INIT] - com.probejs.ProbeJSPlugin
+[17:42:19] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[17:42:20] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[17:42:20] [INFO] Loaded script startup_scripts:example.js in 0.054 s
+[17:42:20] [INFO] Loaded 1/1 KubeJS startup scripts in 0.687 s with 0 errors and 0 warnings
