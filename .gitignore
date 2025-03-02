@@ -1,6 +1,7 @@
 /logs
 /shaderpacks
 /crash-reports
+/saves
 config/oculus.properties
 config/quark-common.toml
 logs/kubejs/client.log
