@@ -9,3 +9,6 @@ logs/kubejs/startup.log
 logs/latest.log
 shaderpacks/ComplementaryReimagined_r5.4.zip.txt
 config/oculus.properties
+crash-reports/crash-2025-03-02_17.27.26-fml.txt
+/crash-reports
+/logs
