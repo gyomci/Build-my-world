@@ -1,18 +1,16 @@
-[18:22:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:22:34] [INIT] Loaded plugins:
-[18:22:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:22:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[18:22:34] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
-[18:22:34] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[18:22:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[18:22:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[18:22:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[18:22:34] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[18:22:34] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[18:22:34] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[18:22:34] [INIT] - com.probejs.ProbeJSPlugin
-[18:22:34] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
-[18:22:34] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[18:22:34] [INFO] Loaded script client_scripts:example.js in 0.0 s
-[18:22:34] [INFO] Loaded 1/1 KubeJS client scripts in 0.023 s with 0 errors and 0 warnings
-[18:22:43] [INFO] Client resource reload complete!
+[11:51:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[11:51:33] [INIT] Loaded plugins:
+[11:51:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[11:51:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[11:51:33] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[11:51:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[11:51:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[11:51:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:51:33] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[11:51:33] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[11:51:33] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[11:51:33] [INIT] - com.probejs.ProbeJSPlugin
+[11:51:33] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[11:51:33] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[11:51:33] [INFO] Loaded 1/1 KubeJS client scripts in 0.027 s with 0 errors and 0 warnings
+[11:51:42] [INFO] Client resource reload complete!
