@@ -1,15 +1,15 @@
-[11:47:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[11:47:47] [INIT] Loaded plugins:
-[11:47:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[11:47:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[11:47:47] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[11:47:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[11:47:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[11:47:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[11:47:47] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[11:47:47] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[11:47:47] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[11:47:47] [INIT] - com.probejs.ProbeJSPlugin
-[11:47:48] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[11:47:48] [INFO] Loaded script startup_scripts:example.js in 0.047 s
-[11:47:48] [INFO] Loaded 1/1 KubeJS startup scripts in 0.666 s with 0 errors and 0 warnings
+[17:05:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:05:28] [INIT] Loaded plugins:
+[17:05:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:05:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:05:28] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[17:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[17:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:05:28] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[17:05:28] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:05:28] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[17:05:28] [INIT] - com.probejs.ProbeJSPlugin
+[17:05:29] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[17:05:29] [INFO] Loaded script startup_scripts:example.js in 0.06 s
+[17:05:29] [INFO] Loaded 1/1 KubeJS startup scripts in 0.685 s with 0 errors and 0 warnings
