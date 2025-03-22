@@ -1,344 +1,366 @@
-[11:53:40] [main/INFO]: ModLauncher running: args [--username, Gyomci, --version, forge-47.3.22, --gameDir, D:\curseforge_minecraft\Instances\Build my world, --assetsDir, D:\curseforge_minecraft\Install\assets, --assetIndex, 5, --uuid, facba8e826bb4e769390fd76512c428e, --accessToken, ????????, --clientId, fa9276-9f00cd-7c69fa-c5490c-ae1602, --xuid, 2535449832448927, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.22, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[11:53:40] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
-[11:53:41] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
-[11:53:41] [main/INFO]: Trying GL version 4.6
-[11:53:41] [main/INFO]: Requested GL version 4.6 got version 4.6
-[11:53:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/curseforge_minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[11:53:41] [pool-2-thread-1/INFO]: GL info: AMD Radeon RX 6900 XT GL version 4.6.0 Core Profile Context 24.12.1.241127, ATI Technologies Inc.
-[11:53:42] [main/INFO]: Found mod file accessories-neoforge-1.0.0-beta.46+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file aether-1.20.1-1.5.2-neoforge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file aether_delight_1.0.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file AetherVillages-1.20.1-1.0.7-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file AI-Improvements-1.20-0.5.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file AkashicTome-1.7-27.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Aquaculture-1.20.1-2.5.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file aquaculturedelight-1.1.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file aquamirae-6.API15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file aquamirae_delight-1.5.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file artifacts-forge-9.5.14.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file athena-forge-1.20.1-3.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Atlas Lib-1.20.1-1.1.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file AttributeFix-Forge-1.20.1-21.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.20-all.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file betterwithminecolonies-1.20-1.19.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file BiomesOPlenty-forge-1.20.1-19.0.0.95.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file blockui-1.20.1-1.0.156-RELEASE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file born_in_chaos_[Forge]1.20.1_1.6.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file borninchaosdelight-1.0.3.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file botarium-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Butchersdelight Foods beta 1.20.1 1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file catalogue-forge-1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file chipped-forge-1.20.1-3.0.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file chunksending-1.20.1-2.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file citadel-2.6.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file cleanswing-1.20-1.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file collective-1.20.1-7.94.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file comforts-forge-6.4.0+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file configured-forge-1.20.1-2.2.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file connectivity-1.20.1-7.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file corn_delight-1.1.6-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file CrabbersDelight-1.20.1-1.1.7d.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Create Encased-1.20.1-1.7.0-fix1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create-1.20.1-6.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create-food-1.20.1-1.1.10-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_better_motors-2.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_curios_backtank-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_easy_structures-0.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_extra_casing-4.0.2-Forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_mechanical_extruder-1.20.1-1.6.6-6.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_misc_and_things_ 1.20.1_4.0A.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_oxidized-0.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_recycle_1.0.2_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file create_waystones_recipes-1.0.1.b.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file createaddition-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file createdeco-2.0.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file createoreexcavation-1.20-1.6.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Croptopia-1.20.1-FORGE-3.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file CullLessLeaves-Reforged-1.20.1-1.0.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file culturaldelights-0.16.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file cupboard-1.20.1-2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file curios-forge-5.12.1+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file darkness-forge-1.20.1-2.0.103-fork.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Delightful-1.20.1-3.7.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file delightfulburgers-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file delightfulsandwich-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DiagonalFences-v8.1.5-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file domum_ornamentum-1.20.1-1.0.284-snapshot-universal.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file dtvinery-1.20.1-forge-1.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Dungeon Crawl-1.20.1-2.3.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Dungeon-Realm-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTrees-1.20.1-1.4.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTreesAether-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTreesBOP-1.20.1-3.3.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTreesCroptopia-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTreesPlus-1.20.1-1.2.0-BETA3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file DynamicTreesQuark-1.20.1-2.5.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file dynamicvillage-v0.4-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file EasierSleeping-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file endersdelight-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ends_delight-1.20.1-2.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Engineers Delight 1.20.1 B.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file entityculling-forge-1.7.3-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file EpheroLib-1.20.1-FORGE-1.2.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file farmers_croptopia-1.20.1-2.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file farmersrespite-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file FarmersStructures-1.0.3-1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file farmingforblockheads-forge-1.20.1-14.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file fastasyncworldsave-1.20.1-2.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file frightsdelight-forge-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-chunks-forge-2001.3.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-essentials-forge-2001.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-quests-forge-2001.4.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-teams-forge-2001.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftb-xmod-compat-forge-2.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftbbackups2-forge-1.20-1.0.23.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ftbquestlocalizer-1.20.1-forge-3.2.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file FTBQuestsOptimizer-forge-2.0.5-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file fusion-1.2.5-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Glodium-1.20-1.5-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file goblintraders-forge-1.20.1-1.9.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file idas_forge-1.11.1+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file imfast-FORGE-1.20.1-1.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file immersive_cooking-v2.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ImmersiveEngineering-1.20.1-10.2.0-183.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file immersiveengineeringstructures-1.0.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file immersivelanterns-forge-1.0.6-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file integrated_api-1.5.2+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.12.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file JadeColonies-1.20.1-1.4.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file jeimultiblocks-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file jumpboat-1.20.0-1.0.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file kubejs-create-forge-2001.3.0-build.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file largemeals-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file letsdo-nethervinery-forge-1.2.17.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file letsdo-vinery-forge-1.4.39.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Library_of_Exile-1.20.1-2.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file lithosphere-1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file lmft-1.0.4+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Mantle-1.20.1-1.11.44.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Mine_and_Slash-1.20.1-6.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file minecolonies-1.20.1-1.1.835-snapshot.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file MineColonies_Compatibility-1.20.1-2.66.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file MineColonies_Hordes-1.20.1-1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file MineColonies_Tweaks-1.20.1-2.54.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file modelfix-1.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file modernfix-forge-5.20.2+mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file molten_metals-1.20.1-0.1.4-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file molten_vents-1.20.1-2.0.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file moonlight-1.20-2.13.79-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file moredelight-25.01.13-1.20-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file multimine-1.20.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file multipiston-1.20-1.2.43-RELEASE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file MyNethersDelight-1.20.1-0.1.7.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file mysterious_mountain_lib-1.5.19-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file nethersdelight-1.20.1-4.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file nethervillagertrader-1.2.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file obscure_api-15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file oceanic_delight-1.0.3-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file oceansdelight-1.0.2-1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file photon-forge-1.20.1-1.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file PickUpNotifier-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file polylib-forge-2000.0.3-build.143.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file polymorph-forge-0.49.8+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file PortableCraftingTable-1.20.1-3.2.2-[FORGE].jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file probejs-6.0.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file protection_pixel-1.1.6-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file PuzzlesLib-v8.1.29-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Quark-4.0-461.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file realmrpg_seadwellers_2.9.9_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file rechiseled_chipped-1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file responsiveshields-2.3-mc1.18-19-20.x.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file rrls-4.0.6.1+mc1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file sebastrnlib-4.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file simpleplanes-1.20.1-5.3.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file smarterfarmers-1.20-2.1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file smoothchunk-1.20.1-4.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file sodiumdynamiclights-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file sodiumoptionsapi-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.6.1211.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.23.902.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file storagedelight-25.03.09-1.20-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file structureessentials-1.20.1-4.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file structurize-1.20.1-1.0.765-snapshot.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file stylecolonies-1.12-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file supermartijn642corelib-1.1.18-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file supplementaries-1.20-3.1.21.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file TConstruct-1.20.1-3.9.2.37.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file The-Harvest-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file The-Hordes-1.20.1-1.5.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file towntalk-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file trowelsfork-1.20.1-2.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file txnilib-forge-1.0.23-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file ubesdelight-forge-1.20.1-0.3.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file villagespawnpoint-1.20.1-4.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file watut-forge-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file yet_another_config_lib_v3-3.6.5+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/INFO]: Found mod file Zeta-1.0-28.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
-[11:53:42] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.22\fmlcore-1.20.1-47.3.22.jar is missing mods.toml file
-[11:53:42] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.22\javafmllanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[11:53:42] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.22\lowcodelanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[11:53:42] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.22\mclanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[11:53:42] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.22.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.22.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.22.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.22.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/INFO]: Found mod file forge-1.20.1-47.3.22-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56303475
-[11:53:42] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11:53:42] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: D:\curseforge_minecraft\Instances\Build my world\mods\curios-forge-5.12.1+1.20.1.jar
-[11:53:42] [main/INFO]: Found 75 dependencies adding them to mods collection
-[11:53:42] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.5+631c9cd677.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file kuma-api-forge-20.1.8+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+cf68abbe77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file Ponder-Forge-1.20.1-1.0.52.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file gson-0.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+4d0bbcfa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file netty-0.1.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+bcd08ed377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file endec-0.1.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+66e9a48f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.2+b5b2da4177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file vineflower-1.9.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-loader-2.6.0+0.15.0+1.20.1-full.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file MixinSquared-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.9.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file midnightlib-1.4.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file javaparser-symbol-solver-core-3.25.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file ldlib-forge-1.20.1-1.0.35.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file puzzlesaccessapi-forge-20.1.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-api-0.92.2+1.11.12+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file Java-WebSocket-1.5.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file diagonalblocks-forge-8.0.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file mixinsquared-forge-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file spectrelib-forge-0.13.17+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9e342fc177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file flywheel-forge-1.20.1-1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dc36698e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file MinecraftForgeAPI-1.20.1-1.0.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file cumulus_menus-1.20.1-1.0.1-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file nitrogen_internals-1.20.1-1.0.12-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file expandability-forge-9.0.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:42] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@feb98ef
-[11:53:46] [main/INFO]: Compatibility level set to JAVA_17
-[11:53:46] [main/ERROR]: Mixin config mixins.delightfulburgers.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config mixins.delightfulsandwich.json does not specify "minVersion" property
-[11:53:46] [main/ERROR]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[11:53:46] [main/INFO]: Successfully loaded Mixin Connector [com.robertx22.mmorpg.MixinConnector]
-[11:53:46] [main/INFO]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.MixinConnector]
-[11:53:46] [main/INFO]: Propagating FML mod list to Fabric Loader
-[11:53:46] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.3.22, --gameDir, D:\curseforge_minecraft\Instances\Build my world, --assetsDir, D:\curseforge_minecraft\Install\assets, --uuid, facba8e826bb4e769390fd76512c428e, --username, Gyomci, --assetIndex, 5, --accessToken, ????????, --clientId, fa9276-9f00cd-7c69fa-c5490c-ae1602, --xuid, 2535449832448927, --userType, msa, --versionType, release, --width, 1024, --height, 768]
-[11:53:46] [main/WARN]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[11:53:47] [main/INFO]: Applying Nashorn fix
-[11:53:47] [main/INFO]: Applied Forge config corruption patch
-[11:53:47] [main/INFO]: Loaded configuration file for Embeddium: 316 options available, 3 override(s) found
-[11:53:47] [main/INFO]: Searching for graphics cards...
-[11:53:47] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon RX 6900 XT, version=DriverVersion=32.0.12033.1030]
-[11:53:47] [main/WARN]: Reference map 'lmft-common-refmap.json' for lmft-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'mixins.delightfulburgers.refmap.json' for mixins.delightfulburgers.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/INFO]: Loading 271 mods:
+[12:21:59] [main/INFO]: ModLauncher running: args [--username, Gyomci, --version, forge-47.4.0, --gameDir, D:\curseforge_minecraft\Instances\Build my world, --assetsDir, D:\curseforge_minecraft\Install\assets, --assetIndex, 5, --uuid, facba8e826bb4e769390fd76512c428e, --accessToken, ????????, --clientId, fa9276-9f00cd-7c69fa-c5490c-ae1602, --xuid, 2535449832448927, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[12:21:59] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[12:22:01] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[12:22:01] [main/INFO]: Trying GL version 4.6
+[12:22:01] [main/INFO]: Requested GL version 4.6 got version 4.6
+[12:22:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/curseforge_minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[12:22:01] [pool-2-thread-1/INFO]: GL info: AMD Radeon RX 6900 XT GL version 4.6.0 Core Profile Context 24.12.1.241127, ATI Technologies Inc.
+[12:22:01] [main/INFO]: Found mod file accessories-neoforge-1.0.0-beta.46+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file aether-1.20.1-1.5.2-neoforge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file aether_delight_1.0.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file AetherVillages-1.20.1-1.0.7-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file AI-Improvements-1.20-0.5.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file AkashicTome-1.7-27.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Aquaculture-1.20.1-2.5.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file aquaculturedelight-1.1.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file aquamirae-6.API15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file aquamirae_delight-1.5.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file artifacts-forge-9.5.14.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file athena-forge-1.20.1-3.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Atlas Lib-1.20.1-1.1.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file AttributeFix-Forge-1.20.1-21.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.20-all.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file betterwithminecolonies-1.20-1.19.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file BiomesOPlenty-forge-1.20.1-19.0.0.95.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file blockui-1.20.1-1.0.156-RELEASE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file bobberdetector-0.1.9-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file born_in_chaos_[Forge]1.20.1_1.6.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file borninchaosdelight-1.0.3.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file botarium-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file BridgingMod-2.5.1+1.20.1.forge-release.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Butchersdelight Foods beta 1.20.1 1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file catalogue-forge-1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file chipped-forge-1.20.1-3.0.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file chunksending-1.20.1-2.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file citadel-2.6.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file cleanswing-1.20-1.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file collective-1.20.1-7.94.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file comforts-forge-6.4.0+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file configured-forge-1.20.1-2.2.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file connectivity-1.20.1-7.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file cookingforblockheads-forge-1.20.1-16.0.13.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file copycats-2.2.2+mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file corn_delight-1.1.6-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file CrabbersDelight-1.20.1-1.1.7d.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Create Encased-1.20.1-1.7.0-fix1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create-1.20.1-6.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create-food-1.20.1-1.1.10-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_better_motors-2.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_central_kitchen-1.20.1-for-create-0.5.1.j-1.3.13.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_connected-0.9.4-mc1.20.1-all.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_curios_backtank-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_easy_structures-0.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_enchantment_industry-1.3.2-for-create-6.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_extra_casing-4.0.2-Forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_mechanical_extruder-1.20.1-1.6.6-6.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_misc_and_things_ 1.20.1_4.0A.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_oxidized-0.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_ratatouille-1.20.1-1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_recycle_1.0.2_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file create_waystones_recipes-1.0.1.b.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file createaddition-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file createdeco-2.0.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file createmoredrillheads-2.0.3-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file createoreexcavation-1.20-1.6.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file createrailwaysnavigator-forge-1.20.1-beta-0.7.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Croptopia-1.20.1-FORGE-3.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file CullLessLeaves-Reforged-1.20.1-1.0.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file culturaldelights-0.16.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file cupboard-1.20.1-2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file curios-forge-5.12.1+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file darkness-forge-1.20.1-2.0.103-fork.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Delightful-1.20.1-3.7.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file delightfulburgers-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file delightfulsandwich-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file design_decor-0.4.0b-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DiagonalFences-v8.1.5-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file domum_ornamentum-1.20.1-1.0.284-snapshot-universal.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file dtvinery-1.20.1-forge-1.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Dungeon Crawl-1.20.1-2.3.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Dungeon-Realm-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTrees-1.20.1-1.4.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTreesAether-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTreesBOP-1.20.1-3.3.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTreesCroptopia-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTreesPlus-1.20.1-1.2.0-BETA3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file DynamicTreesQuark-1.20.1-2.5.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file dynamicvillage-v0.4-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file EasierSleeping-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file endersdelight-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ends_delight-1.20.1-2.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Engineers Delight 1.20.1 B.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file entityculling-forge-1.7.3-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file EpheroLib-1.20.1-FORGE-1.2.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file farmers_croptopia-1.20.1-2.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file farmersrespite-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file FarmersStructures-1.0.3-1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file farmingforblockheads-forge-1.20.1-14.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file fastasyncworldsave-1.20.1-2.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file frightsdelight-forge-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-chunks-forge-2001.3.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-essentials-forge-2001.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-quests-forge-2001.4.12.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-teams-forge-2001.3.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftb-xmod-compat-forge-2.1.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftbbackups2-forge-1.20-1.0.23.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ftbquestlocalizer-1.20.1-forge-3.2.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file FTBQuestsOptimizer-forge-2.0.5-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file fusion-1.2.5-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Glodium-1.20-1.5-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file goblintraders-forge-1.20.1-1.9.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file idas_forge-1.11.1+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file imfast-FORGE-1.20.1-1.0.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file immersive_cooking-v2.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ImmersiveEngineering-1.20.1-10.2.0-183.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file immersiveengineeringstructures-1.0.1-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file immersivelanterns-forge-1.0.6-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file integrated_api-1.5.2+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.12.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file JadeColonies-1.20.1-1.4.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file jeimultiblocks-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file jumpboat-1.20.0-1.0.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file kubejs-create-forge-2001.3.0-build.8.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file largemeals-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file letsdo-nethervinery-forge-1.2.17.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file letsdo-vinery-forge-1.4.39.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Library_of_Exile-1.20.1-2.0.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file lithosphere-1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file lmft-1.0.4+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Mantle-1.20.1-1.11.44.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file mclogs-forge-1.4.2-1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Mine_and_Slash-1.20.1-6.2.2.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file minecolonies-1.20.1-1.1.835-snapshot.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file MineColonies_Compatibility-1.20.1-2.66.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file MineColonies_Hordes-1.20.1-1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file MineColonies_Tweaks-1.20.1-2.54.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file modelfix-1.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file modernfix-forge-5.20.2+mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file molten_metals-1.20.1-0.1.4-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file molten_vents-1.20.1-2.0.9.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file moonlight-1.20-2.13.79-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file moredelight-25.01.13-1.20-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file multimine-1.20.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file multipiston-1.20-1.2.43-RELEASE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file MyNethersDelight-1.20.1-0.1.7.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file mysterious_mountain_lib-1.5.19-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file nethersdelight-1.20.1-4.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file nethervillagertrader-1.2.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file obscure_api-15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file oceanic_delight-1.0.3-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file oceansdelight-1.0.2-1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file photon-forge-1.20.1-1.1.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file PickUpNotifier-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file polylib-forge-2000.0.3-build.143.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file polymorph-forge-0.49.8+1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file PortableCraftingTable-1.20.1-3.2.2-[FORGE].jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file probejs-6.0.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file protection_pixel-1.1.6-forge-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file PuzzlesLib-v8.1.29-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Quark-4.0-461.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file quark_delight_1.0.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file realmrpg_imps_and_demons_0.9.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file realmrpg_seadwellers_2.9.9_forge_1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file rechiseled_chipped-1.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file rechiseledcreate-1.0.2-forge-mc1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file responsiveshields-2.3-mc1.18-19-20.x.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file rrls-4.0.6.1+mc1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sebastrnlib-4.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file simpleplanes-1.20.1-5.3.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sliceanddice-forge-3.4.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file smarterfarmers-1.20-2.1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file smoothchunk-1.20.1-4.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sodiumdynamiclights-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sodiumoptionsapi-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.6.1211.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.23.902.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Steam_Rails-1.6.7+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file storagedelight-25.03.09-1.20-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file structureessentials-1.20.1-4.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file structurize-1.20.1-1.0.765-snapshot.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file stylecolonies-1.12-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file supermartijn642corelib-1.1.18-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file supplementaries-1.20-3.1.21.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file TConstruct-1.20.1-3.9.2.37.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file tfmg-0.9.3-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file The-Harvest-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file The-Hordes-1.20.1-1.5.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file towntalk-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file trowelsfork-1.20.1-2.0.0.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file txnilib-forge-1.0.23-1.20.1.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file ubesdelight-forge-1.20.1-0.3.4.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file villagespawnpoint-1.20.1-4.5.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file watut-forge-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file yet_another_config_lib_v3-3.6.5+1.20.1-forge.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/INFO]: Found mod file Zeta-1.0-28.jar of type MOD with provider {mods folder locator at D:\curseforge_minecraft\Instances\Build my world\mods}
+[12:22:01] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[12:22:01] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[12:22:01] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[12:22:01] [main/WARN]: Mod file D:\curseforge_minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[12:22:01] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:01] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:01] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:01] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:01] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:01] [main/INFO]: Found mod file forge-1.20.1-47.4.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70e02081
+[12:22:02] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[12:22:02] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: D:\curseforge_minecraft\Instances\Build my world\mods\curios-forge-5.12.1+1.20.1.jar
+[12:22:02] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: D:\curseforge_minecraft\Instances\Build my world\mods\architectury-9.2.14-forge.jar
+[12:22:02] [main/INFO]: Found 77 dependencies adding them to mods collection
+[12:22:02] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.5+631c9cd677.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file kuma-api-forge-20.1.8+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+cf68abbe77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file Ponder-Forge-1.20.1-1.0.52.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file gson-0.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+4d0bbcfa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file netty-0.1.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+bcd08ed377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file endec-0.1.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+66e9a48f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.2+b5b2da4177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file vineflower-1.9.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-loader-2.6.0+0.15.0+1.20.1-full.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file MixinSquared-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file midnightlib-1.4.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file javaparser-symbol-solver-core-3.25.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file create_dragon_lib-1.20.1-1.4.3.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file ldlib-forge-1.20.1-1.0.35.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file puzzlesaccessapi-forge-20.1.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-api-0.92.2+1.11.12+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file Java-WebSocket-1.5.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file diagonalblocks-forge-8.0.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file dragonlib-forge-1.20.1-2.2.24.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file mixinsquared-forge-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file spectrelib-forge-0.13.17+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9e342fc177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file flywheel-forge-1.20.1-1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dc36698e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file MinecraftForgeAPI-1.20.1-1.0.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file cumulus_menus-1.20.1-1.0.1-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file nitrogen_internals-1.20.1-1.0.12-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file expandability-forge-9.0.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:02] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4098dd77
+[12:22:05] [main/INFO]: Compatibility level set to JAVA_17
+[12:22:05] [main/ERROR]: Mixin config mixins.delightfulburgers.json does not specify "minVersion" property
+[12:22:05] [main/ERROR]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
+[12:22:05] [main/ERROR]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
+[12:22:05] [main/ERROR]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
+[12:22:06] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[12:22:06] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[12:22:06] [main/ERROR]: Mixin config mixins.delightfulsandwich.json does not specify "minVersion" property
+[12:22:06] [main/ERROR]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[12:22:06] [main/INFO]: Successfully loaded Mixin Connector [com.robertx22.mmorpg.MixinConnector]
+[12:22:06] [main/INFO]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.MixinConnector]
+[12:22:06] [main/INFO]: Propagating FML mod list to Fabric Loader
+[12:22:06] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.0, --gameDir, D:\curseforge_minecraft\Instances\Build my world, --assetsDir, D:\curseforge_minecraft\Install\assets, --uuid, facba8e826bb4e769390fd76512c428e, --username, Gyomci, --assetIndex, 5, --accessToken, ????????, --clientId, fa9276-9f00cd-7c69fa-c5490c-ae1602, --xuid, 2535449832448927, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[12:22:06] [main/WARN]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[12:22:06] [main/INFO]: Applying Nashorn fix
+[12:22:06] [main/INFO]: Applied Forge config corruption patch
+[12:22:06] [main/INFO]: Loaded configuration file for Embeddium: 337 options available, 3 override(s) found
+[12:22:06] [main/INFO]: Searching for graphics cards...
+[12:22:06] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon RX 6900 XT, version=DriverVersion=32.0.12033.1030]
+[12:22:06] [main/WARN]: Reference map 'lmft-common-refmap.json' for lmft-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'createmoredrillheads.refmap.json' for createmoredrillheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'mixins.delightfulburgers.refmap.json' for mixins.delightfulburgers.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/INFO]: Loading 292 mods:
 	- accessories 1.0.0-beta46+1.20.1
-		|-- fabric_api_base 0.4.31+ef105b4977
 		|-- fabric_entity_events_v1 1.6.0+6274ab9d77
 		\-- fabric_object_builder_api_v1 11.1.3+2174fc8477
 	- aether 1.20.1-1.5.2-neoforge
 		|-- cumulus_menus 1.20.1-1.0.1-neoforge
-		|-- mixinextras 0.2.0-beta.9
 		\-- nitrogen_internals 1.20.1-1.0.12-neoforge
 	- aether_villages 1.0.7
 	- aetherdelight 1.0.0
@@ -363,10 +385,12 @@
 	- betterwithminecolonies 1.20-1.19.19
 	- biomesoplenty 19.0.0.95
 	- blockui 1.20.1-1.0.156-RELEASE
+	- bobberdetector 0.1.9.1.20.1
 	- bookshelf 20.2.13
 	- born_in_chaos_v1 1.6.3
 	- borninchaosdelight 1.0.3.1-1.20.1
 	- botarium 2.3.4
+	- bridgingmod 2.5.1+1.20.1
 	- butchersdelightfoods 1.20.11.0.3
 	- carryon 2.1.2.7
 	- catalogue 1.8.0
@@ -382,6 +406,8 @@
 	- connectivity 1.20.1-7.1
 	- constructionwand 1.20.1-2.11
 	- controlling 12.0.2
+	- cookingforblockheads 16.0.13
+	- copycats 2.2.2+mc.1.20.1-forge
 	- corn_delight 1.1.6-1.20.1
 	- coroutil 1.20.1-1.3.7
 	- corpse 1.20.1-1.0.20
@@ -391,9 +417,15 @@
 		|-- flywheel 1.0.2
 		\-- ponder 1.0.52
 	- create_better_motors 2.0.2
+	- create_central_kitchen 1.3.13
+		|-- create_dragon_lib 1.4.3
+		\-- mixinextras 0.2.0
+	- create_connected 0.9.4-mc1.20.1
 	- create_crush_everything 1.0.2
 	- create_curios_backtank 1.0.1
+	- create_dd 0.1b.Release-Early-Dev
 	- create_easy_structures 0.2
+	- create_enchantment_industry 1.3.2-for-create-6.0.3
 	- create_extra_casing 4.0.2-Forge-1.20.1
 	- create_mechanical_extruder 1.20.1-1.6.5-6.0.2
 	- create_new_age 1.1.3
@@ -404,7 +436,10 @@
 	- createcasing 1.7.0-fix1
 	- createdeco 2.0.2-1.20.1-forge
 	- createfood 1.1.10-forge
+	- createmoredrillheads 2.0.3-1.20.1
 	- createoreexcavation 1.6.2
+	- createrailwaysnavigator 1.20.1-beta-0.7.2
+		\-- dragonlib 1.20.1-2.2.24
 	- croptopia 3.0.4
 	- culllessleaves 1.20.1-1.0.5
 	- culturaldelights 0.16.3
@@ -414,6 +449,7 @@
 	- delightful 3.7.1
 	- delightfulburgers 1.20.1
 	- delightfulsandwich 1.20.1
+	- design_decor 0.4.0b
 	- diagonalfences 8.1.5
 		\-- diagonalblocks 8.0.6
 	- domum_ornamentum 1.20.1-1.0.284-snapshot
@@ -442,7 +478,7 @@
 	- farmingforblockheads 14.0.2
 	- fastasyncworldsave 1.20.1-2.4
 	- ferritecore 6.0.1
-	- forge 47.3.22
+	- forge 47.4.0
 	- framework 0.7.12
 	- frightsdelight 1.3.1
 		\-- midnightlib 1.4.2
@@ -483,6 +519,7 @@
 	- library_of_exile 2.0.4
 	- lmft 1.0.4+1.20.1
 	- mantle 1.11.44
+	- mclogs 1.4.2-1.20
 	- minecolonies 1.20.1-1.1.835-snapshot
 	- minecolonies_compatibility 2.66
 	- minecolonies_hordes 1.0
@@ -523,8 +560,13 @@
 	- puzzleslib 8.1.29
 		\-- puzzlesaccessapi 20.1.1
 	- quark 4.0-461
+	- quarkdelight 1.0.0
+	- railways 1.6.7+forge-mc1.20.1
+	- ratatouille 1.0
+	- realmrpg_demons 0.9.0
 	- rechiseled 1.1.6
 	- rechiseled_chipped 1.1
+	- rechiseledcreate 1.0.2
 	- resourcefullib 2.1.29
 	- responsiveshields 2.3
 	- rhino 2001.2.3-build.10
@@ -533,10 +575,12 @@
 	- searchables 1.0.3
 	- sebastrnlib 4.0.0
 	- simpleplanes 1.20.1-5.3.3
+	- sliceanddice 3.4.0
 	- smarterfarmers 1.20-2.1.0
 	- smoothchunk 1.20.1-4.1
 	- sodiumdynamiclights 1.0.9
 	- sodiumoptionsapi 1.0.10
+		\-- fabric_api_base 0.4.31+ef105b4977
 	- sophisticatedbackpacks 3.23.6.1211
 	- sophisticatedcore 1.2.23.902
 	- storagedelight 25.03.09-1.20-forge
@@ -549,6 +593,7 @@
 		\-- mixinsquared 0.1.1
 	- tconstruct 3.9.2.37
 	- terrablender 3.0.1.10
+	- tfmg 0.9.3-1.20.1
 	- the_harvest 1.0.0
 	- tmted 1.0.4
 	- towntalk 1.1.0
@@ -604,118 +649,17 @@
 	- worldedit 7.2.15+6463-5ca4dff
 	- yet_another_config_lib_v3 3.6.5+1.20.1-forge
 	- zeta 1.0-28
-[11:53:47] [main/WARN]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'rechiseledchipped.refmap.json' for rechiseled_chipped.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'nethervinery-common-refmap.json' for nethervinery-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'FTBQuestsOptimizer.refmap.json' for ftbqoptimizer.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'probejs-forge-refmap.json' for probejs.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'dtvinery.refmap.json' for dtvinery.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'mixins.betterstacking.refmap.json' for mixins.delightfulsandwich.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'molten_metals-common-refmap.json' for molten_metals-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:47] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:53:48] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
-[11:53:48] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
-[11:53:48] [main/INFO]: Loaded config for: structureessentials.json
-[11:53:48] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
-[11:53:48] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
-[11:53:48] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
-[11:53:49] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
-[11:53:49] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
-[11:53:49] [main/WARN]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
-[11:53:49] [main/WARN]: @Mixin target noobanidus.mods.lootr.config.ConfigManager was not found quark_integrations.mixins.json:lootr.ConfigManagerMixin
-[11:53:49] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/map_atlas_generation/MapAtlasTexture (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.map_atlas_generation.MapAtlasTexture)
-[11:53:49] [main/WARN]: Error loading class: com/legacy/blue_skies/blocks/natural/BrewberryBushBlock (java.lang.ClassNotFoundException: com.legacy.blue_skies.blocks.natural.BrewberryBushBlock)
-[11:53:49] [main/WARN]: @Mixin target com.legacy.blue_skies.blocks.natural.BrewberryBushBlock was not found minecolonies_compatibility.mixin.common.json:blue_skies.BrewberryBushBlockAccessor
-[11:53:49] [main/WARN]: Error loading class: com/lance5057/butchercraft/workstations/butcherblock/ButcherBlockBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity)
-[11:53:49] [main/WARN]: @Mixin target com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.ButcherBlockBlockEntityAccessor
-[11:53:49] [main/WARN]: Error loading class: com/lance5057/butchercraft/workstations/hook/MeatHookBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity)
-[11:53:49] [main/WARN]: @Mixin target com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.MeatHookBlockEntityAccessor
-[11:53:49] [main/WARN]: Error loading class: com/cobblemon/mod/common/block/BerryBlock (java.lang.ClassNotFoundException: com.cobblemon.mod.common.block.BerryBlock)
-[11:53:49] [main/WARN]: @Mixin target com.cobblemon.mod.common.block.BerryBlock was not found minecolonies_compatibility.mixin.common.json:cobblemon.BerryBlockAccessor
-[11:53:49] [main/WARN]: Error loading class: com/lothrazar/cyclic/block/apple/AppleCropBlock (java.lang.ClassNotFoundException: com.lothrazar.cyclic.block.apple.AppleCropBlock)
-[11:53:49] [main/WARN]: @Mixin target com.lothrazar.cyclic.block.apple.AppleCropBlock was not found minecolonies_compatibility.mixin.common.json:cyclic.AppleCropBlockAccessor
-[11:53:49] [main/WARN]: Error loading class: com/mrbysco/oreberriesreplanted/block/OreBerryBushBlock (java.lang.ClassNotFoundException: com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock)
-[11:53:49] [main/WARN]: @Mixin target com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock was not found minecolonies_compatibility.mixin.common.json:oreberries.OreBerryBushBlockAccessor
-[11:53:49] [main/WARN]: Error loading class: reliquary/items/HandgunItem (java.lang.ClassNotFoundException: reliquary.items.HandgunItem)
-[11:53:49] [main/WARN]: @Mixin target reliquary.items.HandgunItem was not found minecolonies_compatibility.mixin.common.json:reliquary.HandgunItemAccessor
-[11:53:49] [main/WARN]: Error loading class: reliquary/entities/shot/NeutralShotEntity (java.lang.ClassNotFoundException: reliquary.entities.shot.NeutralShotEntity)
-[11:53:49] [main/WARN]: @Mixin target reliquary.entities.shot.NeutralShotEntity was not found minecolonies_compatibility.mixin.common.json:reliquary.NeutralShotEntityMixin
-[11:53:49] [main/WARN]: Error loading class: com/lothrazar/storagenetwork/block/main/NetworkModule (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.block.main.NetworkModule)
-[11:53:49] [main/WARN]: @Mixin target com.lothrazar.storagenetwork.block.main.NetworkModule was not found minecolonies_compatibility.mixin.common.json:storagenetwork.NetworkModuleAccessor
-[11:53:49] [main/WARN]: Error loading class: com/lothrazar/storagenetwork/util/UtilConnections (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.util.UtilConnections)
-[11:53:49] [main/WARN]: @Mixin target com.lothrazar.storagenetwork.util.UtilConnections was not found minecolonies_compatibility.mixin.common.json:storagenetwork.UtilConnectionsMixin
-[11:53:49] [main/WARN]: Error loading class: cofh/lib/common/block/CropBlockCoFH (java.lang.ClassNotFoundException: cofh.lib.common.block.CropBlockCoFH)
-[11:53:49] [main/WARN]: @Mixin target cofh.lib.common.block.CropBlockCoFH was not found minecolonies_compatibility.mixin.common.json:thermal.CropBlockCoFHAccessor
-[11:53:49] [main/WARN]: Error loading class: journeymap/client/ui/fullscreen/Fullscreen (java.lang.ClassNotFoundException: journeymap.client.ui.fullscreen.Fullscreen)
-[11:53:49] [main/WARN]: @Mixin target journeymap.client.ui.fullscreen.Fullscreen was not found create.mixins.json:compat.JourneyFullscreenMapMixin
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
-[11:53:49] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
-[11:53:49] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
-[11:53:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11:53:49] [main/INFO]: Instancing error handler class com.illusivesoulworks.polymorph.mixin.IntegratedMixinPlugin
-[11:53:49] [main/FATAL]: Mixin apply failed yacl.mixins.json:MinecraftMixin -> net.minecraft.client.Minecraft: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on closeImages could not find any targets matching 'destroy' in net.minecraft.client.Minecraft. No refMap loaded. [PREINJECT Applicator Phase -> yacl.mixins.json:MinecraftMixin -> Prepare Injections ->  -> handler$eld000$closeImages(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Parse]
-org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on closeImages could not find any targets matching 'destroy' in net.minecraft.client.Minecraft. No refMap loaded. [PREINJECT Applicator Phase -> yacl.mixins.json:MinecraftMixin -> Prepare Injections ->  -> handler$eld000$closeImages(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Parse]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.validateTargets(InjectionInfo.java:656) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.findTargets(InjectionInfo.java:587) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:330) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:316) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:308) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:46) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at jdk.internal.reflect.GeneratedConstructorAccessor58.newInstance(Unknown Source) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:149) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:708) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1311) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1042) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:393) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
-	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar:10.0.9+10.0.9+main.dcd20f30]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
-	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
-	at java.lang.Class.privateGetDeclaredMethods(Unknown Source) ~[?:?]
-	at java.lang.Class.privateGetPublicMethods(Unknown Source) ~[?:?]
-	at java.lang.Class.privateGetPublicMethods(Unknown Source) ~[?:?]
-	at java.lang.Class.getMethods(Unknown Source) ~[?:?]
-	at net.minecraftforge.fml.earlydisplay.DisplayWindow.updateModuleReads(DisplayWindow.java:616) ~[fmlearlydisplay-1.20.1-47.3.22.jar:1.0]
-	at net.minecraftforge.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:71) ~[fmlloader-1.20.1-47.3.22.jar:1.0]
-	at net.minecraftforge.fml.loading.FMLLoader.beforeStart(FMLLoader.java:216) ~[fmlloader-1.20.1-47.3.22.jar:1.0]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:92) ~[fmlloader-1.20.1-47.3.22.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[12:22:06] [main/WARN]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'rechiseledchipped.refmap.json' for rechiseled_chipped.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'tfmg.refmap.json' for tfmg.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'mixins.betterstacking.refmap.json' for mixins.delightfulsandwich.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'nethervinery-common-refmap.json' for nethervinery-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'FTBQuestsOptimizer.refmap.json' for ftbqoptimizer.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'probejs-forge-refmap.json' for probejs.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'dtvinery.refmap.json' for dtvinery.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'molten_metals-common-refmap.json' for molten_metals-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:06] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:22:07] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[12:22:07] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[12:22:08] [main/INFO]: Loaded config for: structureessentials.json
