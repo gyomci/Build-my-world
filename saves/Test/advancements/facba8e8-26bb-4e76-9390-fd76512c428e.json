@@ -425,12 +425,6 @@
     },
     "done": true
   },
-  "create_connected:root": {
-    "criteria": {
-      "0": "2025-02-08 09:47:39 +0100"
-    },
-    "done": true
-  },
   "ubesdelight:main/root": {
     "criteria": {
       "has_wheat_seeds": "2025-02-08 09:47:39 +0100"
@@ -518,12 +512,6 @@
   "immersiveengineering:multiblocks/multiblocks_root": {
     "criteria": {
       "has_item": "2025-02-08 14:33:14 +0100"
-    },
-    "done": true
-  },
-  "ae2:main/facade": {
-    "criteria": {
-      "facade": "2025-02-08 15:31:13 +0100"
     },
     "done": true
   },

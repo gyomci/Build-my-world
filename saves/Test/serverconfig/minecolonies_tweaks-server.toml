@@ -55,6 +55,10 @@
 		#If this is off, Builders will requests 'Leaves' on needed it when build.
 		leavesFree = true
 
+	[jobs.warehouse]
+		#Range: 1 ~ 20
+		couriersPerLevel = 2
+
 [citizens]
 	disableMourn = false
 
@@ -66,4 +70,9 @@
 		ignoreBiome = false
 		canPlayerPlant = false
 		canPerformBonemeal = true
+
+[monsters]
+
+	[monsters.raider]
+		disableImmunity = false
 
