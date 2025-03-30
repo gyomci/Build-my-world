@@ -5,8 +5,4 @@ I try my best so
 
 if you don't mind me
 
- help
- 
-or
-
- leave thx
+ help thx
