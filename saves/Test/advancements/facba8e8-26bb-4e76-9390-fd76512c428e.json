@@ -533,21 +533,45 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-28 20:59:50 +0100"
+    },
+    "done": true
+  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-03-28 21:04:13 +0100"
     },
     "done": true
   },
-  "create:mechanical_arm": {
+  "create:steam_engine": {
     "criteria": {
-      "0": "2025-03-28 21:07:30 +0100"
+      "0": "2025-03-28 21:04:14 +0100"
     },
     "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-03-28 21:04:14 +0100"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-03-28 21:04:59 +0100"
+    },
+    "done": false
   },
   "create:arm_blaze_burner": {
     "criteria": {
       "0": "2025-03-28 21:06:42 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-03-28 21:07:30 +0100"
     },
     "done": true
   },
@@ -563,27 +587,9 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
+  "frightsdelight:main/root": {
     "criteria": {
-      "1": "2025-03-28 21:04:59 +0100"
-    },
-    "done": false
-  },
-  "create:steam_engine": {
-    "criteria": {
-      "0": "2025-03-28 21:04:14 +0100"
-    },
-    "done": true
-  },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2025-03-28 21:04:14 +0100"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-03-28 20:59:50 +0100"
+      "has_monster_drop": "2025-03-30 14:32:06 +0200"
     },
     "done": true
   },

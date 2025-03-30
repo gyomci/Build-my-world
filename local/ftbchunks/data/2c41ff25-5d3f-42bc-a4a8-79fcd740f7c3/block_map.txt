@@ -50,6 +50,7 @@
 #CA8BE4 immersiveengineering:deepslate_ore_silver
 #ADB910 immersiveengineering:deepslate_ore_uranium
 #60355C minecraft:deepslate_redstone_ore
+#D62F64 create_better_motors:deepslate_reggarfonite_ore
 #24F39D create:deepslate_zinc_ore
 #FF48B8 create:depot
 #CB716A minecraft:diamond_ore

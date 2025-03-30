@@ -1,16 +1,16 @@
-[14:12:29] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:12:29] [INIT] Loaded plugins:
-[14:12:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:12:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:12:29] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[14:12:29] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[14:12:29] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[14:12:29] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[14:12:29] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[14:12:29] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:12:29] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[14:12:29] [INIT] - com.probejs.ProbeJSPlugin
-[14:12:29] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[14:12:29] [INFO] Loaded script client_scripts:example.js in 0.0 s
-[14:12:29] [INFO] Loaded 1/1 KubeJS client scripts in 0.036 s with 0 errors and 0 warnings
-[14:12:40] [INFO] Client resource reload complete!
+[14:24:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:24:33] [INIT] Loaded plugins:
+[14:24:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:24:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:24:33] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[14:24:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[14:24:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[14:24:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[14:24:33] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[14:24:33] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:24:33] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[14:24:33] [INIT] - com.probejs.ProbeJSPlugin
+[14:24:33] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[14:24:33] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[14:24:33] [INFO] Loaded 1/1 KubeJS client scripts in 0.028 s with 0 errors and 0 warnings
+[14:24:43] [INFO] Client resource reload complete!
