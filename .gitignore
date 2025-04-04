@@ -10,3 +10,4 @@ shaderpacks/ComplementaryReimagined_r5.4.zip.txt
 config/oculus.properties
 config/fabric/indigo-renderer.properties
 .mixin.out/class/net/minecraft/world/entity/LivingEntity.class
+/modernfix/structureCacheV1
