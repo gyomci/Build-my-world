@@ -20,6 +20,11 @@ event.replaceInput(
     ServerEvents.recipes(event => {
         //Remove by recipe ID
         [
+        //coal
+        'minecraft:coal_from_blasting_cola_ore',
+        'minecraft:coal_from_smelting_cola_ore',
+        'minecraft:coal_from_blasting_deepslate_cola_ore',
+        'minecraft:coal_from_smelting_deepslate_cola_ore',
         //iron
         'minecraft:iron_ingot_from_blasting_raw_iron',
         'minecraft:iron_ingot_from_smelting_raw_iron',

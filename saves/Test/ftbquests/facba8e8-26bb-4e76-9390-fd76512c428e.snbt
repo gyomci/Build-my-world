@@ -4,10 +4,7 @@
 	name: ""
 	lock: false
 	rewards_blocked: false
-	task_progress: {
-		6B8DC7D771229119: 1
-		259A0DD99CCD3E98: 1
-	}
+	task_progress: { }
 	started: {
 		7BF776D2651FC0C1: 1740579719586L
 		1D57CFF8DC5F39C0: 1740579719586L

@@ -1,0 +1,38 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_absolute_beginning"
+	group: "7ADF85A1E3558716"
+	id: "207F95997062D730"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0DB450353E728891"]
+			id: "5B8826DD005BA130"
+			tasks: [{
+				consume_items: false
+				id: "129063DC2295E750"
+				item: "minecraft:crafting_table"
+				match_nbt: false
+				type: "item"
+				weak_nbt_match: true
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			icon: "minecraft:oak_log"
+			id: "0DB450353E728891"
+			tasks: [{
+				id: "1E3399706AB4ACE4"
+				title: "log"
+				type: "checkmark"
+			}]
+			title: "Obtain any Log"
+			x: -4.0d
+			y: -3.0d
+		}
+	]
+	title: "The absolute beginning"
+}
